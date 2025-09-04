@@ -11,5 +11,9 @@ Another visualization is to display different elementary images of the same grai
 4. Clean the segmented result
 5. A little tool to manually pick out grains of interest and calculate percentage in terms of pixel area
 6. An interactive script to label the grains with a predefined mineral list, and prepare the dataset in the format that can be directly used for training a deep learning model. Please see a detailed readme here: [Interactive_Labeling_ReadMe](Interactive_Labeling_ReadMe.md)
-![demo of interactive labeling](interactive_labeling_demo.gif)
+
+<div align="center">
+  <img src="interactive_labeling_demo.gif" alt="demo of interactive labeling" width="60%">
+</div>
+
 7. Train a deep learning model for mineral grain classification using fast.ai (work in progress)
