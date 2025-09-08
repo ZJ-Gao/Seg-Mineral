@@ -1,0 +1,1 @@
+You should have saved each grain into a single image and center and resize them to 224*224 at the end of [5_2_Get the grains out_save the index_and_resize & center the grains.ipynb](5_2_Get%20the%20grains%20out_save%20the%20index_and_resize%20&%20center%20the%20grains.ipynb)
